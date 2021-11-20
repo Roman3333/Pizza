@@ -1,3 +1,5 @@
+Mini online store(React-Redux)
+
 **Stack:**
 
 - ReactJS + хуки
