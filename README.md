@@ -6,6 +6,6 @@ Mini online store(React-Redux)
 - React Router
 - Redux
 - Redux thunk
-- json-server
+- Json-server
 - Axios
-- classnames
+- Classnames
